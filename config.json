@@ -1,0 +1,20 @@
+{
+  "params":
+{
+  "fb_url" :"https://www.facebook.com/harish.kumawat.9638",
+  "git_url" :"https://github.com/harishkumawat2610",
+  "stackoverflow": "https://stackoverflow.com/users/7510333/harish-kumawat",
+  "blog_name": "Coding",
+  "blog_last": "Shooter",
+  "blog_full": "Coding Shooter",
+
+  "blog_dis": "A blog like by Coding Loverrrrrr",
+  "gmail-user":"abc@gmail.com",
+  "gmail-password":"password",
+  "no_of_post": 4,
+  "login_image": "gun.png",
+  "admin_user":"harish@gmail.com",
+  "admin_password": "1234",
+  "upload_location": "//home//kuma//myprojects//flask_tuts//static//img"
+}
+}
